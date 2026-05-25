@@ -12,7 +12,7 @@ library(ggplot2)
 library(stats)
 
 ## Clé API TAC
-taceconomics.apikey("sk_vi3tyYZnKTionSr9hAhXp2yxsPBbKSzSOq6TAZ87ykk")
+taceconomics.apikey("")
 
 
 ## Choix des variables
